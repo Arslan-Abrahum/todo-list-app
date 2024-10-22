@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.danger {
+    color: red;
+}
+.success{
+    color: rgb(104, 245, 104);
+}
